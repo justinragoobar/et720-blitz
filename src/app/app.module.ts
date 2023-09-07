@@ -21,7 +21,7 @@ import { ProductListComponent } from './product-list/product-list.component';
     TopBarComponent,
     ProductListComponent
   ],
-  bootstrap: [ 
+  bootstrap: [  
     AppComponent
   ]
 })
